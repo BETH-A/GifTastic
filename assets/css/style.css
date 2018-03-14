@@ -1,0 +1,62 @@
+body {
+	font-family: 'Architects Daughter', cursive;
+	background: url(../images/abstract3.jpg);
+	background-size: cover;
+ 	background-attachment:fixed;
+	color: #eee;
+	font-size: 25px;
+}
+
+h1 {
+	font-family: 'Finger Paint', cursive;
+	font-size: 60px;
+	margin-top: 30px;
+}
+
+h3 {
+	font-size: 30px;
+}
+
+#topic-form {
+	max-width: 170px;
+}
+
+#topic-input {
+	width: 100%;
+}
+
+#add-topics {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+#btn-list {
+    display: grid;
+}
+
+.btn {
+	font-size: 18px;
+}
+
+.btn-topics {
+	margin-bottom: 10px;
+}
+
+.thumbnail {
+	height: 242px;
+	min-width: 200px;
+	margin: 10px;
+	float:left;
+}
+
+.gif {
+	max-height: 200px;
+}
+
+.caption {
+	color: #000;
+}
+
+footer {
+	text-align: center;
+}
